@@ -1,0 +1,14 @@
+PÁGINA DE PRUEBAS — I.E. INTERNADO CHARCO TRECE
+
+1. Extraiga TODO el ZIP en una carpeta del computador.
+2. Abra index.html con Chrome o Edge. Mantenga juntos index.html, app.js, banco.js, style.css y la carpeta imagenes.
+3. El estudiante escribe su nombre, selecciona grado, responde y obtiene sus aciertos totales y por asignatura.
+4. Al terminar, descarga o imprime su resultado para entregarlo al docente.
+
+Esta página NO guarda respuestas en Google Drive ni Google Sheets. Conserva el avance temporalmente en la sesión del navegador. No sustituye un registro central de resultados. El resultado descargado lo conserva cada estudiante.
+Para guardar respuestas en Google, utilice los cuestionarios Forms y sus hojas vinculadas del paquete Google_Sites_Charco_Trece_Formularios_y_Resultados.zip. Hace falta ejecutar ese script en su cuenta y conectar los enlaces reales.
+
+Incluye 782 preguntas en seis grados: 6.º 135; 7.º 127; 8.º–11.º 130 cada uno. No incluye Castellana ni Ética de 10.º y 11.º.
+La calificación se realiza en el navegador y sus claves están en el código: esta versión no protege las respuestas frente a inspección técnica.
+
+Google Sites no importa este ZIP como sitio completo. Para esa plataforma use los formularios o la portada que genera prepararGoogleSites.
